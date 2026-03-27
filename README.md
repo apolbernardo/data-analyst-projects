@@ -18,4 +18,3 @@ This project analyzes sales performance, product trends, and customer behavior w
 
 ## How to Run
 Open the notebook in Google Colab or Jupyter to explore the analysis. The notebook includes the full RFM workflow, visualizations, and insights derived from the data.
-Open the notebook in Google Colab or Jupyter to explore the analysis. The notebook includes the full RFM workflow, visualizations, and insights derived from the data.
